@@ -1,8 +1,7 @@
-# ClassAverageCalculate
-
-
 import java.util.Scanner;
+
 public class Main {
+
     public static void main(String[] args) {
         int mat, fizik, kimya, biyoloji, müzik, turkce, sosyal ;
         Scanner inp = new Scanner (System.in);
