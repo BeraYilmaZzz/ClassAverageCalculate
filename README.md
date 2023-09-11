@@ -34,4 +34,4 @@ public class Main {
         String str = durum ? "Geçtiniz" : "Kaldınız" ;
         System.out.println(str) ;
     }
-}
+    }
